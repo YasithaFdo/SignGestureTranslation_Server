@@ -1,5 +1,10 @@
 # SignGestureTranslation_Server
 
+## Project Structure Overview
+
+* server.py — Runs the actual backend server. This is the main entry point of the application.
+* gpt.py — A standalone text generator used only for testing the GPT model independently from the server.
+
 ## Installation
 
 ### 1. Clone the Repository
